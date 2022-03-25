@@ -1,0 +1,5 @@
+core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+main.c:27:5:main	8	static
+main.c:37:6:config_pc13	8	static
+main.c:71:6:EXTI15_10_IRQHandler	4	static
